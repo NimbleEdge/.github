@@ -1,6 +1,6 @@
 # Welcome to NimbleEdge 👋
 <p align="center">
-<img align="center" src="/profile/Black_logo.png" height="30%" width="30%"/>
+<img align="center" src="/profile/Black_logo.png" height="50%" width="50%"/>
 </p>
 
 <p align="center">
