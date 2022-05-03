@@ -1,8 +1,8 @@
 <h1 align="center">
 
   <br>
-  <img src="https://github.com/ramesht007/.github-1/blob/main/assets/nimbleedge-dark-logo.png#gh-light-mode-only" alt="NimbleEdge"/ height="350" width="700">
-  <img src="https://github.com/ramesht007/.github-1/blob/main/assets/nimbledge-white-logo.png#gh-dark-mode-only" alt="NimbleEdge"/ height="320" width="1000">
+  <img src="https://github.com/ramesht007/.github-1/blob/main/assets/nimbleedge-dark-logo.png#gh-light-mode-only" alt="NimbleEdge"/ height="320" width="900">
+  <img src="https://github.com/ramesht007/.github-1/blob/main/assets/nimbledge-white-logo.png#gh-dark-mode-only" alt="NimbleEdge"/ height="320" width="900">
   <br>
   <br>
   Join the Revolution Towards The Edge
