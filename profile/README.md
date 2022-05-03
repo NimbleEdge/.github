@@ -12,7 +12,7 @@
 
 <h3 align="center">
   <br>
-  MISSION & VISION
+  OUR MISSION & VISION
   <br>
 </h3>
 <h4 align="center">
