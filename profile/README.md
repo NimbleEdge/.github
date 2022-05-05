@@ -21,7 +21,7 @@ Here are some steps to learn and use the NimbleEdge .
 - [Sentinels](https://github.com/NimbleEdge/Sentinels) Code related to any applications / bots serving our discord community.
 
 ## Contact
-For reporting bugs, requesting features, and discussing changes, developers should use Github issues and discussions on these repositories. Using issues, you can [maintainers, contributors and other  members](nimbleedge.ai/discord) of the community. To connect with the community and learn more about the software and community, new users should bookmark or visit the [Community Website of NimbleEdge](https://www.nimbleedge.ai/).
+For reporting bugs, requesting features, and discussing changes, developers should use Github issues and discussions on these repositories. To connect with the community and learn more about the software and community, new users should bookmark or visit the [Community Website of NimbleEdge](https://www.nimbleedge.ai/).
 
 ### Community driven development
 
@@ -31,9 +31,6 @@ We love to build ❤ our product in open source.
 
 ### 👓 Appendix
 
-- [Documentation](https://docs.nimbleedge.ai/)
-- [About Us](https://www.nimbleedge.ai/about-us)
-- [Project](https://www.nimbleedge.ai/#project)
 - [Careers Opportunities](https://www.nimbleedge.ai/careers)
 - [Code of Conduct](https://github.com/NimbleEdge/EnvisEdge/blob/main/CODE_OF_CONDUCT.md)
 
