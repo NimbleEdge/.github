@@ -1,7 +1,14 @@
 # Welcome to NimbleEdge 👋
-<p align="center">
-<img align="center" src="/profile/Black_logo.png" height="50%" width="50%"/>
-</p>
+<h1 align="center">
+
+  <br>
+  <img src="https://github.com/ramesht007/.github-1/blob/main/assets/nimbleedge-dark-logo.png#gh-light-mode-only" alt="NimbleEdge"/ height="250" width="800">
+  <img src="https://github.com/ramesht007/.github-1/blob/main/assets/nimbledge-white-logo.png#gh-dark-mode-only" alt="NimbleEdge"/ height="250" width="800">
+  <br>
+  <br>
+  Join the Revolution Towards The Edge
+  <br>
+</h1>
 
 <p align="center">
 <a href="nimbleedge.ai/discord" alt="discord"><img src="https://img.shields.io/badge/discord-@nimbleedge--discord-green.svg" alt="discord"></img></a>
@@ -33,19 +40,6 @@ We love to build ❤ our product in open source.
 
 - [Careers Opportunities](https://www.nimbleedge.ai/careers)
 - [Code of Conduct](https://github.com/NimbleEdge/EnvisEdge/blob/main/CODE_OF_CONDUCT.md)
-
-
-<h1 align="center">
-
-  <br>
-  <img src="https://github.com/ramesht007/.github-1/blob/main/assets/nimbleedge-dark-logo.png#gh-light-mode-only" alt="NimbleEdge"/ height="250" width="800">
-  <img src="https://github.com/ramesht007/.github-1/blob/main/assets/nimbledge-white-logo.png#gh-dark-mode-only" alt="NimbleEdge"/ height="250" width="800">
-  <br>
-  <br>
-  Join the Revolution Towards The Edge
-  <br>
-</h1>
-
 
 <h3 align="center">
   <br>
