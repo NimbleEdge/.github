@@ -7,13 +7,13 @@
   <br>
   Join the Revolution Towards The Edge
   <br>
-</h1>
-
-<h3 align="center">
+  <h3 align="center">
   <br>
   OUR MISSION & VISION
   <br>
 </h3>
+</h1>
+
 <h4 align="center">
     Leading the movement towards Edge Computing. <br>
     Bringing Private and Personalized AI directly to the user devices.
@@ -27,7 +27,7 @@
 
 </p>
 
-[NimbleEdge](https://www.nimbleedge.ai/) NimbleEdge is leading the movement towards real edge computing. Creating a challenging new age technology altering the status quo between the cloud and the users’ devices, a technology that is inherently privacy preserving.
+[NimbleEdge](https://www.nimbleedge.ai/) NimbleEdge is leading the movement towards edge computing. Creating a challenging new age technology altering the status quo between the cloud and the users’ devices, a technology that is inherently privacy preserving.
 
 ### 🏂 Haven't tried NimbleEdge  yet?
 Here are some steps to learn and use the NimbleEdge .
