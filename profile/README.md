@@ -7,11 +7,6 @@
   <br>
   Join the Revolution Towards The Edge
   <br>
-  <h3 align="center">
-  <br>
-  OUR MISSION & VISION
-  <br>
-</h3>
 </h1>
 
 <h4 align="center">
