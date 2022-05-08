@@ -1,4 +1,3 @@
-# Welcome to NimbleEdge 👋
 <h1 align="center">
 
   <br>
