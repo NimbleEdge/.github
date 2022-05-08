@@ -10,6 +10,16 @@
   <br>
 </h1>
 
+<h3 align="center">
+  <br>
+  OUR MISSION & VISION
+  <br>
+</h3>
+<h4 align="center">
+    Leading the movement towards Edge Computing. <br>
+    Bringing Private and Personalized AI directly to the user devices.
+</h4>
+
 <p align="center">
 <a href="nimbleedge.ai/discord" alt="discord"><img src="https://img.shields.io/badge/discord-@nimbleedge--discord-green.svg" alt="discord"></img></a>
 <a href="https://github.com/NimbleEdge" alt="github"><img src="https://img.shields.io/badge/github-@nimbleedge--github-orange.svg" alt="github"></img></a>
@@ -40,13 +50,3 @@ We love to build ❤ our product in open source.
 
 - [Careers Opportunities](https://www.nimbleedge.ai/careers)
 - [Code of Conduct](https://github.com/NimbleEdge/EnvisEdge/blob/main/CODE_OF_CONDUCT.md)
-
-<h3 align="center">
-  <br>
-  OUR MISSION & VISION
-  <br>
-</h3>
-<h4 align="center">
-    Leading the movement towards Edge Computing. <br>
-    Bringing Private and Personalized AI directly to the user devices.
-</h4>
