@@ -16,16 +16,15 @@
 
 <p align="center">
 <a href="nimbleedge.ai/discord" alt="discord"><img src="https://img.shields.io/badge/discord-@nimbleedge--discord-green.svg" alt="discord"></img></a>
+<a href="https://github.com/NimbleEdge" alt="github"><img src="https://img.shields.io/badge/github-@nimbleedge--github-orange.svg" alt="github"></img></a>
+<a href="https://twitter.com/NimbleedgeINC" alt="twitter"><img src="https://img.shields.io/badge/twitter-@nimbleedge--twitter-yellow.svg" alt="twitter"></img></a>
+<a href="https://www.linkedin.com/company/nimbleedge/" alt="linkedin"><img src="https://img.shields.io/badge/linkedin-@nimbleedge--linkedin-red.svg" alt="linkedin"></img></a>
+</p>
   <h3 align="center">
   <br>
   OUR MISSION & VISION
   <br>
 </h3>
-<a href="https://github.com/NimbleEdge" alt="github"><img src="https://img.shields.io/badge/github-@nimbleedge--github-orange.svg" alt="github"></img></a>
-<a href="https://twitter.com/NimbleedgeINC" alt="twitter"><img src="https://img.shields.io/badge/twitter-@nimbleedge--twitter-yellow.svg" alt="twitter"></img></a>
-<a href="https://www.linkedin.com/company/nimbleedge/" alt="linkedin"><img src="https://img.shields.io/badge/linkedin-@nimbleedge--linkedin-red.svg" alt="linkedin"></img></a>
-
-</p>
 
 [NimbleEdge](https://www.nimbleedge.ai/) NimbleEdge is leading the movement towards edge computing. Creating a challenging new age technology altering the status quo between the cloud and the users’ devices, a technology that is inherently privacy preserving.
 
