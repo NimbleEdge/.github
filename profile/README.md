@@ -22,17 +22,7 @@
   <br>
 </h3>
 <a href="https://github.com/NimbleEdge" alt="github"><img src="https://img.shields.io/badge/github-@nimbleedge--github-orange.svg" alt="github"></img></a>
-  <h3 align="center">
-  <br>
-  OUR MISSION & VISION
-  <br>
-</h3>
 <a href="https://twitter.com/NimbleedgeINC" alt="twitter"><img src="https://img.shields.io/badge/twitter-@nimbleedge--twitter-yellow.svg" alt="twitter"></img></a>
-  <h3 align="center">
-  <br>
-  OUR MISSION & VISION
-  <br>
-</h3>
 <a href="https://www.linkedin.com/company/nimbleedge/" alt="linkedin"><img src="https://img.shields.io/badge/linkedin-@nimbleedge--linkedin-red.svg" alt="linkedin"></img></a>
 
 </p>
