@@ -1,8 +1,8 @@
 <h1 align="center">
 
   <br>
-  <img src="https://github.com/ramesht007/.github-1/blob/main/assets/nimbleedge-dark-logo.png#gh-light-mode-only" alt="NimbleEdge"/ height="250" width="800">
-  <img src="https://github.com/ramesht007/.github-1/blob/main/assets/nimbledge-white-logo.png#gh-dark-mode-only" alt="NimbleEdge"/ height="250" width="800">
+  <img src="https://github.com/NimbleEdge/.github/blob/main/assets/nimbledge-white-logo.png" alt="NimbleEdge"/ height="250" width="800">
+  <img src="https://github.com/NimbleEdge/.github/blob/main/assets/nimbledge-white-logo.png#gh-dark-mode-only" alt="NimbleEdge"/ height="250" width="800">
   <br>
   <br>
   Join the Revolution Towards The Edge
@@ -10,16 +10,16 @@
 </h1>
 
 <p align="center">
-<a href="nimbleedge.ai/discord" alt="discord"><img src="https://img.shields.io/badge/discord-@nimbleedge--discord-green.svg" alt="discord"></img></a>
+<a href="https://nimbleedge.ai/discord" alt="discord"><img src="https://img.shields.io/badge/discord-@nimbleedge--discord-green.svg" alt="discord"></img></a>
 <a href="https://github.com/NimbleEdge" alt="github"><img src="https://img.shields.io/badge/github-@nimbleedge--github-orange.svg" alt="github"></img></a>
 <a href="https://twitter.com/NimbleedgeINC" alt="twitter"><img src="https://img.shields.io/badge/twitter-@nimbleedge--twitter-yellow.svg" alt="twitter"></img></a>
 <a href="https://www.linkedin.com/company/nimbleedge/" alt="linkedin"><img src="https://img.shields.io/badge/linkedin-@nimbleedge--linkedin-red.svg" alt="linkedin"></img></a>
 </p>
 
-[NimbleEdge](https://www.nimbleedge.ai/) NimbleEdge is leading the movement towards edge computing. Creating a challenging new age technology altering the status quo between the cloud and the users’ devices, a technology that is inherently privacy preserving.
+[NimbleEdge](https://www.nimbleedge.ai/) is leading the movement toward edge computing. Creating a challenging new age technology altering the status quo between the cloud and the users’ devices, an inherently privacy-preserving technology.
 
-### 🏂 Haven't tried NimbleEdge  yet?
-Here are some steps to learn and use the NimbleEdge .
+### 🏂 Haven't tried NimbleEdge yet?
+Here are some steps to learn and use the NimbleEdge.
 
 - [EnvisEdge](https://github.com/NimbleEdge/EnvisEdge) Deploy recommendation engines with Edge Computing.
 - [community.nimbleedge.ai](https://github.com/NimbleEdge/community.nimbleedge.ai) Community Website of NimbleEdge.
@@ -38,3 +38,5 @@ We love to build ❤ our product in open source.
 
 - [Careers Opportunities](https://www.nimbleedge.ai/careers)
 - [Code of Conduct](https://github.com/NimbleEdge/EnvisEdge/blob/main/CODE_OF_CONDUCT.md)
+
+
