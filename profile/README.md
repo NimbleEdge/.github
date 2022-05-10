@@ -11,7 +11,11 @@
 
 <p align="center">
 
+
 <a href="https://nimbleedge.ai/discord" alt="discord"><img src="https://img.shields.io/badge/discord-@nimbleedge--discord-green.svg" alt="discord"></img></a>
+=======
+<a href="https://discord.com/invite/TgAD7dgX7V" alt="discord"><img src="https://img.shields.io/badge/discord-@nimbleedge--discord-green.svg" alt="discord"></img></a>
+>>>>>>> main
 =======
 <a href="https://discord.com/invite/TgAD7dgX7V" alt="discord"><img src="https://img.shields.io/badge/discord-@nimbleedge--discord-green.svg" alt="discord"></img></a>
 >>>>>>> main
@@ -21,6 +25,9 @@
 </p>
 
 [NimbleEdge](https://www.nimbleedge.ai/) is leading the movement toward edge computing. Creating a challenging new age technology altering the status quo between the cloud and the users’ devices, an inherently privacy-preserving technology.
+=======
+[NimbleEdge](https://www.nimbleedge.ai/) is leading the movement towards edge computing. Creating a challenging new age technology altering the status quo between the cloud and the users’ devices, a technology that is inherently privacy preserving.
+
 =======
 [NimbleEdge](https://www.nimbleedge.ai/) is leading the movement towards edge computing. Creating a challenging new age technology altering the status quo between the cloud and the users’ devices, a technology that is inherently privacy preserving.
 
