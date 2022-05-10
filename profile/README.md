@@ -10,13 +10,20 @@
 </h1>
 
 <p align="center">
+
 <a href="https://nimbleedge.ai/discord" alt="discord"><img src="https://img.shields.io/badge/discord-@nimbleedge--discord-green.svg" alt="discord"></img></a>
+=======
+<a href="https://discord.com/invite/TgAD7dgX7V" alt="discord"><img src="https://img.shields.io/badge/discord-@nimbleedge--discord-green.svg" alt="discord"></img></a>
+>>>>>>> main
 <a href="https://github.com/NimbleEdge" alt="github"><img src="https://img.shields.io/badge/github-@nimbleedge--github-orange.svg" alt="github"></img></a>
 <a href="https://twitter.com/NimbleedgeINC" alt="twitter"><img src="https://img.shields.io/badge/twitter-@nimbleedge--twitter-yellow.svg" alt="twitter"></img></a>
 <a href="https://www.linkedin.com/company/nimbleedge/" alt="linkedin"><img src="https://img.shields.io/badge/linkedin-@nimbleedge--linkedin-red.svg" alt="linkedin"></img></a>
 </p>
 
 [NimbleEdge](https://www.nimbleedge.ai/) is leading the movement toward edge computing. Creating a challenging new age technology altering the status quo between the cloud and the users’ devices, an inherently privacy-preserving technology.
+=======
+[NimbleEdge](https://www.nimbleedge.ai/) is leading the movement towards edge computing. Creating a challenging new age technology altering the status quo between the cloud and the users’ devices, a technology that is inherently privacy preserving.
+
 
 ### 🏂 Haven't tried NimbleEdge yet?
 Here are some steps to learn and use the NimbleEdge.
@@ -38,5 +45,3 @@ We love to build ❤ our product in open source.
 
 - [Careers Opportunities](https://www.nimbleedge.ai/careers)
 - [Code of Conduct](https://github.com/NimbleEdge/EnvisEdge/blob/main/CODE_OF_CONDUCT.md)
-
-
