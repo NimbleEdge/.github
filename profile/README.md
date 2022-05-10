@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-<a href="nimbleedge.ai/discord" alt="discord"><img src="https://img.shields.io/badge/discord-@nimbleedge--discord-green.svg" alt="discord"></img></a>
+<a href="https://discord.com/invite/TgAD7dgX7V" alt="discord"><img src="https://img.shields.io/badge/discord-@nimbleedge--discord-green.svg" alt="discord"></img></a>
 <a href="https://github.com/NimbleEdge" alt="github"><img src="https://img.shields.io/badge/github-@nimbleedge--github-orange.svg" alt="github"></img></a>
 <a href="https://twitter.com/NimbleedgeINC" alt="twitter"><img src="https://img.shields.io/badge/twitter-@nimbleedge--twitter-yellow.svg" alt="twitter"></img></a>
 <a href="https://www.linkedin.com/company/nimbleedge/" alt="linkedin"><img src="https://img.shields.io/badge/linkedin-@nimbleedge--linkedin-red.svg" alt="linkedin"></img></a>
