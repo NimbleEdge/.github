@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/company/nimbleedge/" alt="linkedin"><img src="https://img.shields.io/badge/linkedin-@nimbleedge--linkedin-red.svg" alt="linkedin"></img></a>
 </p>
 
-[NimbleEdge](https://www.nimbleedge.ai/) NimbleEdge is leading the movement towards edge computing. Creating a challenging new age technology altering the status quo between the cloud and the users’ devices, a technology that is inherently privacy preserving.
+[NimbleEdge](https://www.nimbleedge.ai/) is leading the movement towards edge computing. Creating a challenging new age technology altering the status quo between the cloud and the users’ devices, a technology that is inherently privacy preserving.
 
 ### 🏂 Haven't tried NimbleEdge  yet?
 Here are some steps to learn and use the NimbleEdge .
