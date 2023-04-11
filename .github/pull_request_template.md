@@ -15,22 +15,21 @@ Please delete options that are not relevant.
 
 ## Changes proposed in this PR
 
-# How Has This Been Tested?
+## How Has This Been Tested?
 
 Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
 
 - [ ] Test A
 - [ ] Test B
 
-**Test Configuration**:
-
-* Toolchain:
-
-# Dependencies that must be merged before this PR
+## Dependencies that must be merged before this PR
 
 - List/Link to the PR which this PR depends on
 
-# Checklist: mark X inside the [ ], like [X]
+## Checklist: 
+
+mark X inside the [ ], like [X]
+
 - [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my code
 - [ ] I have commented my code, particularly in hard-to-understand areas
