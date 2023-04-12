@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/labeler@v3
         with:
-          repo-token: "${{ secrets.GITHUB_TOKEN }}"
+          repo-token: "${{ secrets.BOT_ACCESS_TOKEN }}"
 
   size-label:
     runs-on: ubuntu-latest
