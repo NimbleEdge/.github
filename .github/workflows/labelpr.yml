@@ -1,7 +1,8 @@
 name: "Pull Request Labeler"
 
 on:
-  - pull_request_target
+  pull_request:
+    types: [opened, reopened]
 
 jobs:
   triage:
@@ -12,7 +13,7 @@ jobs:
     steps:
       - uses: actions/labeler@v4
         with:
-          repo-token: "${{ secrets.BOT_ACCESS_TOKEN }}"
+          repo-token: "${{ secrets.LABELER_CLASSIC_TOKEN }}"
 
   size-label:
     runs-on: ubuntu-latest
