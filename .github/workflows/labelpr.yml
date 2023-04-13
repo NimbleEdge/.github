@@ -4,16 +4,15 @@ on:
   pull_request:
     types: [opened, reopened]
 
+permissions: write-all
+
 jobs:
   triage:
-    permissions:
-      contents: read
-      pull-requests: write
     runs-on: ubuntu-latest
     steps:
       - uses: actions/labeler@v4
         with:
-          repo-token: "${{ secrets.LABELER_CLASSIC_TOKEN }}"
+          repo-token: "${{ secrets.GITHUB_TOKEN }}"
 
   size-label:
     runs-on: ubuntu-latest
@@ -21,7 +20,7 @@ jobs:
       - name: size-label
         uses: "pascalgn/size-label-action@v0.4.3"
         env:
-          GITHUB_TOKEN: "${{ secrets.BOT_ACCESS_TOKEN }}"
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
         with:
           sizes: >
             {
