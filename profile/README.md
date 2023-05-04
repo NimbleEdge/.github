@@ -1,8 +1,7 @@
 <h1 align="center">
 
   <br>
-  <img src="https://github.com/NimbleEdge/.github/blob/main/assets/nimbleedge-dark-logo.png#gh-light-mode-only" alt="NimbleEdge"/ height="250" width="800">
-  <img src="https://github.com/NimbleEdge/.github/blob/main/assets/nimbledge-white-logo.png#gh-dark-mode-only" alt="NimbleEdge"/ height="250" width="800">
+  <img src="https://github.com/NimbleEdge/.github/blob/main/assets/nimbleedge-2022-color.png" alt="NimbleEdge"/ height="250" width="800">
   <br>
   <br>
   Join the Revolution Towards The Edge
