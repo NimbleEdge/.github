@@ -34,5 +34,5 @@ We love to build ❤ our product in open source.
 
 ### 👓 Appendix
 
-- [Careers Opportunities](https://www.nimbleedge.com/careers)
+- [Careers Opportunities](https://www.nimbleedge.com/careers) [Coming Soon]
 - [Code of Conduct](https://github.com/NimbleEdge/EnvisEdge/blob/main/CODE_OF_CONDUCT.md)
