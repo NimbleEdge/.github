@@ -1,7 +1,7 @@
 # Description
 Include a descripton of what this change does. 
 
-Type - Bug/Feature/Improvements
+Type - Bug/New Feature/Improvements
 
 Attach PR link to Asana
 
