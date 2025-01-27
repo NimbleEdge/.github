@@ -3,7 +3,7 @@ Include a descripton of what this change does.
 
 Type - Bug/New Feature/Improvements
 
-[ ] Attached PR link on the Asana task
+- [ ] Attached PR link on the Asana task
 
 Design Doc Link - 
 
