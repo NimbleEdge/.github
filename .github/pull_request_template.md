@@ -1,30 +1,16 @@
 # Description
+Include a descripton of what this change does. 
 
-Please include a summary of the changes and the related issue.
-Please also include relevant motivation and context. Mention dependency if there are.
+Type - Bug/New Feature/Improvements
 
+- [ ] Attached PR link on the Asana task
 
-Fixes # (issue)
+Design Doc Link - 
 
-## Type of change
+## Tests
+- [ ] Are there existing tests to validate changes introduced in the PR? 
 
-Please delete options that are not relevant.
+- [ ] New tests added for changes in the PR    
+ 
+Mention steps to reproduce the fix or run tests for the changes.
 
-- [ ] Improvements
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-
-## Changes proposed in this PR
-
-## How Has This Been Tested?
-
-## Checklist: 
-
-- [ ] My code follows the style guidelines of this project
-- [ ] I have performed a self-review of my code
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation
-- [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] New and existing unit tests pass locally with my changes
-- [ ] Any dependent changes have been merged and published in downstream modules
