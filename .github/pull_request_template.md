@@ -1,7 +1,10 @@
 # Description
-Include a descripton of what this change does. 
+Include a description of what this change does.
 
-Type - Bug/New Feature/Improvements
+Type of changes:
+- [ ] Bug
+- [ ] New Feature
+- [ ] Improvements
 
 - [ ] Attached PR link on the Asana task
 
@@ -13,4 +16,3 @@ Design Doc Link -
 - [ ] New tests added for changes in the PR    
  
 Mention steps to reproduce the fix or run tests for the changes.
-
