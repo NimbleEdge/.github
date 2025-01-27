@@ -10,7 +10,7 @@ Design Doc Link -
 ## Tests
 - [ ] Are there existing tests to validate changes introduced in the PR? 
 
-- [ ] New tests added for this change    
+- [ ] New tests added for changes in the PR    
  
 Mention steps to reproduce the fix or run tests for the changes.
 
