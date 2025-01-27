@@ -1,7 +1,10 @@
 # Description
 Include a descripton of what this change does. 
-Type(Bug/Feature/Improvements)
+
+Type - Bug/Feature/Improvements
+
 Asana Link - 
+
 Design Doc Link - 
 
 ## Tests
