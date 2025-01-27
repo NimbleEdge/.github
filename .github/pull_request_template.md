@@ -8,7 +8,7 @@ Type - Bug/New Feature/Improvements
 Design Doc Link - 
 
 ## Tests
-- [ ] Existing tests cover this scenario too 
+- [ ] Are there existing tests to validate changes introduced in the PR? 
 
 - [ ] New tests added for this change    
  
