@@ -1,7 +1,7 @@
 <h1 align="center">
 
   <br>
-  <img src="./assets/nimbleedge-2022-color.png" alt="NimbleEdge"/ height="250" width="800">
+  <img src="./assets/nimbleedge-logo-blue-white-bg-with-name.jpg" alt="NimbleEdge"/ height="250" width="800">
   <br>
   <br>
   Join the Revolution Towards The Edge
